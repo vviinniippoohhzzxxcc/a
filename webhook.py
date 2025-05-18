@@ -81,7 +81,7 @@ BOTS = {
         "YOOMONEY_WALLET": "4100118178122985",
         "NOTIFICATION_SECRET": "CoqQlgE3E5cTzyAKY1LSiLU1",
         "PRIVATE_CHANNEL_ID": -1002642788126,
-        "PRICE": 600.00,
+        "PRICE": 850.00,
         "DESCRIPTION": (
             "Тариф: Стандарт\n"
             "Стоимость: {price} 🇷🇺RUB\n"
@@ -94,7 +94,7 @@ BOTS = {
         "YOOMONEY_WALLET": "4100118178122985",
         "NOTIFICATION_SECRET": "CoqQlgE3E5cTzyAKY1LSiLU1",
         "PRIVATE_CHANNEL_ID": -1002357608478,
-        "PRICE": 650.00,
+        "PRICE": 850.00,
         "DESCRIPTION": (
             "Тариф: Стандарт\n"
             "Стоимость: {price} 🇷🇺RUB\n"
